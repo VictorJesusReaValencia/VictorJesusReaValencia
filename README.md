@@ -23,9 +23,9 @@ Here are some of the technologies I commonly work with:
 
 ### 📊 My GitHub Stats
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorJesusReaValencia&show_icons=true&theme=vue)](https://github.com/VictorJesusReaValencia)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorJesusReaValencia)](https://github.com/VictorJesusReaValencia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJesusReaValencia&layout=compact&theme=vue)](https://github.com/VictorJesusReaValencia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJesusReaValencia)](https://github.com/VictorJesusReaValencia)
 
 ---
 
